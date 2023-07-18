@@ -12,7 +12,6 @@
 <region> sample=09_B1.wav key=35
 <region> sample=10_C2.wav key=36
 <region> sample=11_C#2.wav key=37
-
 <region> sample=12_D2.wav key=38
 <region> sample=13_D#2.wav key=39
 <region> sample=14_E2.wav key=40
@@ -25,19 +24,18 @@
 <region> sample=21_B2.wav key=47
 <region> sample=22_C3.wav key=48
 <region> sample=23_C#3.wav key=49
-
 <region> sample=24_D3.wav key=50
-<region> sample=14_D#3.wav key=51
-<region> sample=15_E3.wav key=52
-<region> sample=16_F3.wav key=53
-<region> sample=17_F#3.wav key=54
-<region> sample=18_G3.wav key=55
-<region> sample=19_G#3.wav key=56
-<region> sample=20_A3.wav key=57
-<region> sample=21_A#3.wav key=58
-<region> sample=22_B3.wav key=59
-<region> sample=23_C4.wav key=60
-
-<region> sample=24_D4.wav key=61
+<region> sample=25_D#3.wav key=51
+<region> sample=26_E3.wav key=52
+<region> sample=27_F3.wav key=53
+<region> sample=28_F#3.wav key=54
+<region> sample=29_G3.wav key=55
+<region> sample=30_G#3.wav key=56
+<region> sample=31_A3.wav key=57
+<region> sample=32_A#3.wav key=58
+<region> sample=33_B3.wav key=59
+<region> sample=34_C4.wav key=60
+<region> sample=35_C#4.wav key=61
+<region> sample=36_D4.wav key=62
 
 
